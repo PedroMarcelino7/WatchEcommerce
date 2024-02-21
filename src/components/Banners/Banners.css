@@ -1,23 +1,17 @@
-#banners-container {
-    padding: 0;
-}
-
 .carousel-caption {
-    bottom: 5rem;
-    padding: 1rem;
-    left: 12%;
-    right: 12%;
+    /* */
 }
 
 .carousel-caption h5 {
-    font-size: 1.8rem;
+    /* */
 }
 
 @media (min-width: 768px) {
+
     #slider .carousel-item,
     #slider img {
         height: 600px;
-        
+
     }
 
     .carousel-caption {

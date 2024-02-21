@@ -8,7 +8,9 @@ function App() {
     <>
       <Navbar />
       <BottomNav />
-      <Banners />
+      <div className="container" id="banners-container">
+        <Banners />
+      </div>
     </>
   )
 }
