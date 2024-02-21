@@ -4,7 +4,7 @@
 }
 
 #navbar .navbar-nav li {
-    margin-left: 1rem;
+    margin-left: 1em;
 }
 
 #navbar a,
@@ -17,7 +17,7 @@
 }
 
 #navbar i {
-    font-size: 1.5rem;
+    font-size: 1.5em;
 }
 
 #navbar span {
@@ -60,7 +60,7 @@
 
 #search-form {
     width: 100%;
-    margin-block: 2rem;
+    margin-block: 2em;
     margin-inline: 0;
     border: 2px solid #626262;
     border-radius: 3px;
