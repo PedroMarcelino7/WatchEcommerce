@@ -5,6 +5,7 @@ import BottomNav from './components/BottomNav/BottomNav'
 import Highlight from './components/Highlight/Highlight'
 import MiniBanners from './components/MiniBanners/MiniBanners'
 import Navbar from './components/Navbar/Navbar'
+import News from './components/News/News'
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
       <BestSellers />
 
       <Highlight />
+
+      <News />
     </>
   )
 }
