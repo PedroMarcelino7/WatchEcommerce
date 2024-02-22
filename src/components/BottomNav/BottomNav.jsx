@@ -4,6 +4,8 @@ export default function BottomNav() {
     return (
         <nav className="navbar navbar-expand-lg secondary-bg-color p-2" id="bottom-navbar-container">
             <div className="container">
+                <h1 className='d-block d-md-none'>ExactTime</h1>
+
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#bottom-navbar"
                     aria-controls="bottom-navbar" aria-expanded="false" aria-label="Toggle Navigation">
                     <i className="bi bi-list"></i>

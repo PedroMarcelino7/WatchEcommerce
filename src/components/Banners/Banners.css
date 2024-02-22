@@ -1,9 +1,6 @@
 .carousel-caption {
-    /* */
-}
-
-.carousel-caption h5 {
-    /* */
+    margin-bottom: 0;
+    opacity: 0.85;
 }
 
 @media (min-width: 768px) {
@@ -11,12 +8,13 @@
     #slider .carousel-item,
     #slider img {
         height: 600px;
-
     }
 
     .carousel-caption {
+        margin-bottom: 5em;
         left: 23%;
         right: 23%;
+        opacity: 1;
     }
 
     .carousel-caption h5 {

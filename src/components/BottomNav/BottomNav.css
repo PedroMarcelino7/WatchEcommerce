@@ -1,5 +1,17 @@
+#bottom-navbar-container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
 #bottom-navbar-container .container {
-    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+    #bottom-navbar-container {
+        position: static;
+    }
 }
 
 #bottom-navbar-container a {
