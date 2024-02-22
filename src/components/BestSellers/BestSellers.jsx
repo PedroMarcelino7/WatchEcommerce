@@ -18,7 +18,7 @@ export default function BestSellers() {
 
                             <div className="card-body">
                                 <p className="card-category secondary-color">Relógio</p>
-                                <h5 className="card-title">Nome do Produto</h5>
+                                <h5 className="card-title primary-color">Nome do Produto</h5>
                                 <p className="card-text primary-color">R$177,77</p>
                                 <a href="" className="btn btn-primary">Comprar</a>
                             </div>
@@ -33,7 +33,7 @@ export default function BestSellers() {
 
                             <div className="card-body">
                                 <p className="card-category secondary-color">Relógio</p>
-                                <h5 className="card-title">Nome do Produto</h5>
+                                <h5 className="card-title primary-color">Nome do Produto</h5>
                                 <p className="card-text primary-color">R$177,77</p>
                                 <a href="" className="btn btn-primary">Comprar</a>
                             </div>
@@ -48,7 +48,7 @@ export default function BestSellers() {
 
                             <div className="card-body">
                                 <p className="card-category secondary-color">Relógio</p>
-                                <h5 className="card-title">Nome do Produto</h5>
+                                <h5 className="card-title primary-color">Nome do Produto</h5>
                                 <p className="card-text primary-color">R$177,77</p>
                                 <a href="" className="btn btn-primary">Comprar</a>
                             </div>
@@ -63,7 +63,7 @@ export default function BestSellers() {
 
                             <div className="card-body">
                                 <p className="card-category secondary-color">Relógio</p>
-                                <h5 className="card-title">Nome do Produto</h5>
+                                <h5 className="card-title primary-color">Nome do Produto</h5>
                                 <p className="card-text primary-color">R$177,77</p>
                                 <a href="" className="btn btn-primary">Comprar</a>
                             </div>
