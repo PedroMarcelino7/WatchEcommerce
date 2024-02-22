@@ -1,0 +1,31 @@
+#gallery .image-container {
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    cursor: pointer;
+    transition: all 0.5s;
+    border: 3px solid #101010;
+}
+
+#gallery .image-container:hover {
+    border: 3px solid #c09578;
+}
+
+#insta1 {
+    background-image: url('../../images/insta1.jpg');
+}
+#insta2 {
+    background-image: url('../../images/insta2.jpg');
+}
+#insta3 {
+    background-image: url('../../images/insta3.jpg');
+}
+#insta4 {
+    background-image: url('../../images/insta4.jpg');
+}
+#insta5 {
+    background-image: url('../../images/insta5.jpg');
+}
+#insta6 {
+    background-image: url('../../images/insta6.jpg');
+}
